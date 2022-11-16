@@ -6,3 +6,7 @@ int numero2 = 9;
 
 
 int somma = numero1 + numero2;
+
+int sottrazione = 0;
+
+sottrazione = numero1 - numero2;
