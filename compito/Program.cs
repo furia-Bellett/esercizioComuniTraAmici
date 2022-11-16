@@ -10,3 +10,13 @@ int somma = numero1 + numero2;
 int sottrazione = 0;
 
 sottrazione = numero1 - numero2;
+
+
+int moltiplicazione;
+
+moltiplicazione = numero1 * numero2;
+
+
+
+
+
