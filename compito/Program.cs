@@ -16,6 +16,10 @@ int moltiplicazione;
 
 moltiplicazione = numero1 * numero2;
 
+int divienny = numero1 / numero2;
+
+Console.WriteLine(somma + "/n" + sottrazione + "/n" + moltiplicazione + "/n" + divienny);
+
 
 
 
